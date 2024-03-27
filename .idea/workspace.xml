@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6ec9017-b539-4c9b-b78d-7c36bd0ca1ef" name="Changes" comment="Третье задание + редактирование первого">
+    <list default="true" id="f6ec9017-b539-4c9b-b78d-7c36bd0ca1ef" name="Changes" comment="Четвертое задание">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Второе задание.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Четвертое задание.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MoxTume"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="679c4e42-ed2b-4160-b2cb-5da613f4a642" />
+        <option name="url" value="https://github.com/MoxTume/ProjectMegapolis" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -99,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711541945262</updated>
-      <workItem from="1711541948563" duration="6968000" />
+      <workItem from="1711541948563" duration="7862000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -133,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711547564698</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Четвертое задание">
+      <option name="closed" value="true" />
+      <created>1711549070267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711549070267</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Четвертое задание">
+      <option name="closed" value="true" />
+      <created>1711549082994</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711549082994</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +186,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
     <MESSAGE value="Третье задание + редактирование первого" />
-    <option name="LAST_COMMIT_MESSAGE" value="Третье задание + редактирование первого" />
+    <MESSAGE value="Четвертое задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Четвертое задание" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -163,10 +197,14 @@
           <line>1</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Второе задание.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject2$_.coverage" NAME="Четвертое задание Coverage Results" MODIFIED="1711548869673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject2$_.coverage" NAME="Четвертое задание Coverage Results" MODIFIED="1711549038070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
